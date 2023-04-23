@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import database_student
 
-API_TOKEN = '6221555910:AAFzHJOl4rrF_6hkxiY6GyZL75p4A19rTrs'
+API_TOKEN = 'TOKEN'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 
